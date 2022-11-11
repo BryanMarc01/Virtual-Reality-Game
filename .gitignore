@@ -70,3 +70,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+TareaVR/Assets/TerrainTexturesPackFree/TerrainTextures/GrassUV02_N.png
+TareaVR/Assets/TerrainTexturesPackFree/TerrainTextures/GrassUV02.png
+TareaVR/Assets/TerrainTexturesPackFree/TerrainTextures/GrassUV01_N.png
+TareaVR/Assets/TerrainTexturesPackFree/TerrainTextures/GrassUV01.png
